@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCC</title>
+    <style>
+        .background{
+            position: absolute;
+        width: 1768px;
+        height: 935px;
+
+        background: #FFFFFF;
+        }
+        .container {
+            position: absolute;
+            width: 150px;
+            height: 935px;
+
+        background: #191718;
+}
+.Home {
+   
+    position: absolute;
+width: 43px;
+height: 19px;
+left: 16px;
+top: 14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+
+
+
+color: #FFFFFF;
+}
+.services {
+    position: absolute;
+width: 63px;
+height: 19px;
+left: 16px;
+top: 14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+
+
+
+color: #AAAAAA;
+
+
+}
+.News {
+    position: absolute;
+width: 40px;
+height: 19px;
+left: 16px;
+top: 14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+
+
+color: #FFFFFF;
+
+
+}
+.Blog {
+    position: absolute;
+width: 33px;
+height: 19px;
+left: 16px;
+top: 14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+
+
+
+color: #AAAAAA;
+
+}
+.Contact {
+    position: absolute;
+width: 57px;
+height: 19px;
+left: 16px;
+top: 14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+
+
+
+color: #AAAAAA;
+
+}
+.logo {
+position: absolute;
+width: 310px;
+height: 122px;
+
+background: url(logoNCC.png);
+text-align:center;
+img.cangiua {display: block; margin-left: auto; margin-right: auto;}
+}
+.background1 {
+    position: absolute;
+width: 241px;
+height: 21px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.vanban {
+    position: absolute;
+width: 972px;
+height: 95px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}
+.vanbantong{
+    osition: absolute;
+width: 1510px;
+height: 210px;
+
+background: #EFEFEF;
+}
+div.background1{
+    text-align: center;
+}
+div.vanban{
+    text-align: center ;
+}
+
+    </style>
+</head>
+<body>
+    <div class="content-left">
+        <div>
+            <div id="content" class="container">
+                <div id="post" class="Home">
+                    Home</div> <br> 
+                <div id="post1" class="services">
+                    services</div><br> 
+                <div id="post2" class="News">
+                    News</div><br> 
+                <div id="post3" class="Blog">
+                    Blog</div><br> 
+                <div id="post4" class="Contact">
+                    Contact</div><br> 
+            </div>
+        </div>
+
+        
+    </div>
+    <div class="logo" text-align:center>
+        <img src="tải xuống.png" alt="" class="cangiua"/>
+
+    </div>
+    <div class="vanbantong">
+        <p class="background1">
+            <b>Lorem ipsum dolor sit asmet?</b><br>
+        </p>
+        <p class="vanban">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique consequat placerat. Vestibulum auctor pellentesque sem, eu posuere erat hendrerit quis. Maecenas vel consequat turpis. Nam facilisis, ligula in mattis sodales, augue justo tristique nulla, sed lacinia ante eros ut mi. Morbi vitae diam augue. Aliquam vel mauris a nibh auctor commodo. Praesent et nisi eu justo eleifend convallis. Quisque suscipit maximus vestibulum. Phasellus congue mollis orci, sit amet luctus augue tristique eu. Donec vulputate odio neque, sed semper turpis pellentesque a.</p>
+    </div>
+    <div>
+        <img src="images.png" alt="">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at <br> ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</p>
+    </div>
+    <div>
+        <img src="logo.png" alt="">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at <br>ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</p>
+    </div>
+    <div>
+        <img src="logo2.png" alt="">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non dui sodales, faucibus libero ut, posuere felis. Donec imperdiet suscipit accumsan. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices liquam egestas nunc at <br>ullamcorper ultricies. Donec feugiat velit nulla, vel sodales est ullamcorper id. Aenean consequat condimentum velit ut tempor. Nam porta massa in metus bibendum congue. Pellentesque ultrices vestibulum mattis.</p>
+    </div>
+
+    
+</body>
+</html>
